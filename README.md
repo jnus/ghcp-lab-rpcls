@@ -1,5 +1,12 @@
 # GitHub CoPilot Rock-Paper-Scissor-Lizard-Spock lab
-Fun little CoPilot lab creating a rock paper scissor game in Python. 
+## Creating a simple Rock, Paper, Scissors Game
+
+Welcome to GitHub Copilot!
+
+For this first dive, we will take a look at a very familiar game and see if we can leverage GitHub Copilot to help us create all the functioning code necessary to setup Rock, Paper, Scissors with a little twist. 
+
+![image](https://github.com/jnus/ghcp-lab-rpcls/assets/2075403/bb89728c-0618-4110-a782-df6e574c11a7)
+
 
 ## Prerequisites
 - Python v3.11
@@ -11,12 +18,13 @@ Fun little CoPilot lab creating a rock paper scissor game in Python.
 3. Add a leader board that sums up the score
 4. Refactor and optimize. Keep it DRY
 5. See if you can refactor and add unit tests to some of the logic
-6. Add lizard and Spock choices as well. ![image](https://github.com/jnus/ghcp-lab-rpcls/assets/2075403/b1aeb6a8-c740-496d-a864-10acde012b56)
-
-7. Add the option to input emoji icons as input as well. Hint: ![image](https://github.com/jnus/ghcp-lab-rpcls/assets/2075403/e78e7530-a1e1-4636-8f13-2e96670c120f)
+6. Add lizard and Spock choices as well.
+7. Add the option to input emoji icons as input as well.
+   Hint: ![image](https://github.com/jnus/ghcp-lab-rpcls/assets/2075403/e78e7530-a1e1-4636-8f13-2e96670c120f)
 
 # Getting started
 1. Let's start with giving GitHub Copilot some context about what we're building. Write this comment `# Write a rock, paper, scissors, game` at the top of your main.py file.
 2. Now, let's prompt Copilot to import the random module. Write this comment `# import random module` on the next line. You will probably need this module!
-3. From this point one, craft a prompt to define the main function and call it. Use either inline CoPilot or CoPilot chat to add feature based on the objectives in an iterative manner, step by step. 
+3. From this point one, craft a prompt to define the main function and call it. Use either inline CoPilot or CoPilot chat to add feature based on the objectives in an iterative manner, step by step.
+4. Good luck!
 
