@@ -24,7 +24,7 @@ For this first dive, we will take a look at a very familiar game and see if we c
 
 # Getting started
 1. Let's start with giving GitHub Copilot some context about what we're building. Write this comment `# Write a rock, paper, scissors, game` at the top of your main.py file.
-2. Now, let's prompt Copilot to import the random module. Write this comment `# import random module` on the next line. You will probably need this module!
-3. From this point one, craft a prompt to define the main function and call it. Use either inline CoPilot or CoPilot chat to add feature based on the objectives in an iterative manner, step by step.
+2. Now, let's prompt Copilot to import the random module. Write this comment `# import random module` on the next line. You will probably need this module!  Press enter to create a new line and accept Copilot's suggestion.
+3. From this point one, craft a prompt to define the main function with all the logic and call the main function. Use either inline CoPilot or CoPilot chat to add feature based on the objectives in an iterative manner, step by step. Don't worry if you do not know python and use CoPilot to learn. 
 4. Good luck!
 
