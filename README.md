@@ -15,4 +15,8 @@ Fun little CoPilot lab creating a rock paper scissor game in Python.
 
 7. Add the option to input emoji icons as input as well. Hint: ![image](https://github.com/jnus/ghcp-lab-rpcls/assets/2075403/e78e7530-a1e1-4636-8f13-2e96670c120f)
 
+# Getting started
+1. Let's start with giving GitHub Copilot some context about what we're building. Write this comment `# Write a rock, paper, scissors, game` at the top of your main.py file.
+2. Now, let's prompt Copilot to import the random module. Write this comment `# import random module` on the next line. You will probably need this module!
+3. From this point one, craft a prompt to define the main function and call it. Use either inline CoPilot or CoPilot chat to add feature based on the objectives in an iterative manner, step by step. 
 
