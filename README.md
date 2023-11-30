@@ -28,3 +28,8 @@ For this first dive, we will take a look at a very familiar game and see if we c
 3. From this point one, craft a prompt to define the main function with all the logic and call the main function. Use either inline CoPilot or CoPilot chat to add feature based on the objectives in an iterative manner, step by step. Don't worry if you do not know python and use CoPilot to learn. 
 4. Good luck!
 
+
+# You need hints?
+In case you get stuck, have a look at this workshop repository. There are more instructions on how to progress and even a [codetour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) and a [codespace](https://docs.github.com/en/codespaces/getting-started/quickstart) with python installed. 
+https://github.com/copilot-workshops/copilot-rock-paper-scissors
+
